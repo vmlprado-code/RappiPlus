@@ -148,4 +148,4 @@ Por ello, los porcentajes deben revisarse antes de interpretarlos como retenció
 ## Autor
 
 **Víctor Manuel López Prado**  
-Profesional de administración y finanzas con 12 años de experiencia en el sector hotelero, orientado al análisis de datos. Certificado en Análisis de Datos por TripleTen (2026).
+Profesional de administración Certificado en Análisis de Datos por TripleTen (2026).
