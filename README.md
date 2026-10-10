@@ -148,4 +148,4 @@ Por ello, los porcentajes deben revisarse antes de interpretarlos como retenció
 ## Autor
 
 **Víctor Manuel López Prado**  
-Profesional de administración Certificado en Análisis de Datos por TripleTen (2026).
+Profesional de administración Certificado en Análisis de Datos
